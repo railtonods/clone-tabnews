@@ -118,7 +118,7 @@ async function sendEmailToUser(user, activationToken) {
         
 ${webserver.origin}/cadastro/ativar/${activationToken.id}
 
-Atenciosamento,
+Atenciosamente,
 Equipe Clone Tabnews`,
   });
 }
